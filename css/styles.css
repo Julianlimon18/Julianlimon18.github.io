@@ -1,10 +1,73 @@
-body {
-  font-family: 'Arial', sans-serif;
-  background-color: white;
-  color: red;
-  text-align: left;
-  padding-top: 36px;
-  min-height: 1000px;
+
+h1 {
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 15px;
+  letter-spacing: 1px;
 }
+
+.bodyp{
+font-family: "Arial";
+font-size: 15px
+}
+
+h2{
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: red;
+}
+
+h3{
+  font-family: "Arial";
+  color:red;
+  font-weight: bold;
+  font-size: 15px;
+  letter-spacing: 1px;
+  color: red;
+}
+
+h4{
+  font-family: "Arial";
+  color:red;
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 1px
+}
+
+.footer{
+  font-family: "Arial";
+  color:black;
+  font-size: 12px;
+  letter-spacing: 1px
+}
+
+.contact{
+  font-family: "Arial";
+  color:red;
+  font-size: 12px;
+  letter-spacing: 1px
+}
+
+h6{
+  font-family: "Arial";
+  color:red;
+  font-size: 30px;
+  letter-spacing: 1px
+}
+
+#topred{
+  background-color: red;
+}
+
+#topgray{
+  background-color: #C4C4C4;
+}
+
+#image{
+  padding-top: 50px
+}
+
 
 /* example comment syntax */
