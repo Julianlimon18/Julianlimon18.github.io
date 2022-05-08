@@ -2,7 +2,7 @@
 h1 {
   font-family: "Arial";
   font-weight: bold;
-  font-size: 15px;
+  font-size: 12px;
   letter-spacing: 1px;
 }
 
@@ -91,6 +91,10 @@ h5{
   padding-top: 50px;
 }
 
+#padding4{
+  padding-bottom: 15px;
+}
+
 #backgroundred{
   background-color: red;
 }
@@ -102,5 +106,9 @@ h5{
 a {
   text-decoration: none;
   color: Black;
+}
+
+#times{
+  font-size:10px
 }
 /* example comment syntax */
