@@ -58,11 +58,15 @@ h5{
 
 
 #topred{
+  margin-left: 10%;
+  margin-right: 10%;
   background-color: red;
   height: 10px;
 }
 
 #topgray{
+  margin-left: 10%;
+  margin-right: 10%;
   background-color: #C4C4C4;
   height: 20px;
 }
@@ -110,5 +114,10 @@ a {
 
 #times{
   font-size:10px
+}
+
+#padding5{
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 /* example comment syntax */
