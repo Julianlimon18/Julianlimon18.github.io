@@ -1,25 +1,25 @@
 
-h1 {
-  font-family: "Arial";
-  font-weight: bold;
-  font-size: 12px;
-  letter-spacing: 1px;
-}
-
 .bodyp{
 font-family: "Arial";
 font-size: 15px
 }
 
-h2{
+#titles{
   font-family: "Arial";
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   letter-spacing: 1px;
   color: red;
 }
 
-h3{
+#titles2{
+  font-family: "Arial";
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: red;
+}
+
+h1{
   font-family: "Arial";
   color:red;
   font-weight: bold;
@@ -28,7 +28,7 @@ h3{
   color: red;
 }
 
-h4{
+h2{
   font-family: "Arial";
   color:white;
   font-weight: bold;
@@ -36,10 +36,17 @@ h4{
   letter-spacing: 1px
 }
 
-h5{
+h3{
   font-family: "Arial";
   font-size: 12px;
   color: white;
+}
+
+h4{
+  font-family: "Arial";
+  font-weight:bold;
+  font-size: 20px;
+  color: red;
 }
 
 .footer{
@@ -57,46 +64,44 @@ h5{
 }
 
 
-#topred{
-  margin-left: 10%;
-  margin-right: 10%;
+#red{
   background-color: red;
-  height: 10px;
+  height: 5px;
 }
 
-#topgray{
-  margin-left: 10%;
-  margin-right: 10%;
+#gray{
   background-color: #C4C4C4;
-  height: 20px;
+  height: 15px;
 }
 
-#image{
+#imagepadding{
   padding-top: 50px;
 }
 
-#padding1{
+#padding{
   padding-bottom: 25px;
   padding-top: 25px;
 }
 
-#padding{
-  padding-top: 25px;
-}
-
-#padding2{
+#padding1{
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 25px;
   padding-top: 25px
 }
 
-#padding3{
+#padding2{
   padding-top: 50px;
 }
 
-#padding4{
+#padding3{
   padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+#padding4{
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 #backgroundred{
@@ -112,12 +117,8 @@ a {
   color: Black;
 }
 
-#times{
-  font-size:10px
-}
-
-#padding5{
-  padding-bottom: 10px;
-  padding-top: 10px;
+#bottomnumber{
+letter-spacing: 25px;
+font-family: "Arial";
 }
 /* example comment syntax */
